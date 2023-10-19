@@ -1,0 +1,1452 @@
+[#|2023-10-17T20:02:18.152+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|
+================================================================================
+Message Queue 5.1.2
+Oracle
+Version:  5.1.2  (Build 1-a)
+Compile:  March 14 2018 2057
+
+Copyright (c) 2013-2018 Oracle and/or its affiliates.  All rights reserved.
+================================================================================
+Java Runtime: 11.0.18 Oracle Corporation C:\Program Files\Java\jdk-11.0.18
+|#]
+
+
+[#|2023-10-17T20:02:18.171+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|   IMQ_HOME=C:\Users\User\Desktop\TPI\mq
+|#]
+
+
+[#|2023-10-17T20:02:18.172+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|IMQ_VARHOME=C:\Users\User\Desktop\TPI\mq\var
+|#]
+
+
+[#|2023-10-17T20:02:18.173+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|Windows 10 10.0 amd64 NIKITA (8 cpu) User
+|#]
+
+
+[#|2023-10-17T20:02:18.175+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|Java Heap Size: max=196608k, current=16384k
+|#]
+
+
+[#|2023-10-17T20:02:18.176+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|Arguments: 
+|#]
+
+
+[#|2023-10-17T20:02:18.180+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1522]: Create thread pool portmapper for (8, 8)(60s) service
+|#]
+
+
+[#|2023-10-17T20:02:18.182+0300|SEVERE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|ERROR [B3068]: Could not start the Broker's portmapper service on port 7676.
+This port is already in use by another application -- possibly another
+instance of the Broker. Please quit that other application, or use a
+different port number for this instance of the Broker.
+|#]
+
+
+[#|2023-10-17T20:02:18.183+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|ERROR Portmapper service failed to start
+|#]
+
+
+[#|2023-10-17T20:02:19.847+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|
+================================================================================
+Message Queue 5.1.2
+Oracle
+Version:  5.1.2  (Build 1-a)
+Compile:  March 14 2018 2057
+
+Copyright (c) 2013-2018 Oracle and/or its affiliates.  All rights reserved.
+================================================================================
+Java Runtime: 11.0.18 Oracle Corporation C:\Program Files\Java\jdk-11.0.18
+|#]
+
+
+[#|2023-10-17T20:02:19.863+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|   IMQ_HOME=C:\Users\User\Desktop\TPI\mq
+|#]
+
+
+[#|2023-10-17T20:02:19.863+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|IMQ_VARHOME=C:\Users\User\Desktop\TPI\mq\var
+|#]
+
+
+[#|2023-10-17T20:02:19.864+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|Windows 10 10.0 amd64 NIKITA (8 cpu) User
+|#]
+
+
+[#|2023-10-17T20:02:19.865+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|Java Heap Size: max=196608k, current=16384k
+|#]
+
+
+[#|2023-10-17T20:02:19.866+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|Arguments: 
+|#]
+
+
+[#|2023-10-17T20:02:19.870+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1522]: Create thread pool portmapper for (8, 8)(60s) service
+|#]
+
+
+[#|2023-10-17T20:02:19.873+0300|SEVERE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|ERROR [B3068]: Could not start the Broker's portmapper service on port 7676.
+This port is already in use by another application -- possibly another
+instance of the Broker. Please quit that other application, or use a
+different port number for this instance of the Broker.
+|#]
+
+
+[#|2023-10-17T20:02:19.874+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|ERROR Portmapper service failed to start
+|#]
+
+
+[#|2023-10-17T20:03:03.366+0300|WARNING|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[S2004]: Log output channel com.sun.messaging.jmq.util.log.SysLogHandler is disabled: no imqutil in java.library.path|#]
+
+
+[#|2023-10-17T20:03:03.371+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|
+================================================================================
+Message Queue 5.1.2
+Oracle
+Version:  5.1.2  (Build 1-a)
+Compile:  March 14 2018 2057
+
+Copyright (c) 2013-2018 Oracle and/or its affiliates.  All rights reserved.
+================================================================================
+Java Runtime: 1.8.0_361 Oracle Corporation C:\Program Files\Java\jdk1.8.0_361\jre
+|#]
+
+
+[#|2023-10-17T20:03:03.381+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|   IMQ_HOME=C:\Users\User\Desktop\TPI\mq
+|#]
+
+
+[#|2023-10-17T20:03:03.381+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|IMQ_VARHOME=C:\Users\User\Desktop\TPI\mq\var
+|#]
+
+
+[#|2023-10-17T20:03:03.382+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|Windows 10 10.0 amd64 NIKITA (8 cpu) User
+|#]
+
+
+[#|2023-10-17T20:03:03.384+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|Java Heap Size: max=175104k, current=19968k
+|#]
+
+
+[#|2023-10-17T20:03:03.384+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|Arguments: 
+|#]
+
+
+[#|2023-10-17T20:03:03.389+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1522]: Create thread pool portmapper for (8, 8)(60s) service
+|#]
+
+
+[#|2023-10-17T20:03:03.391+0300|SEVERE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|ERROR [B3068]: Could not start the Broker's portmapper service on port 7676.
+This port is already in use by another application -- possibly another
+instance of the Broker. Please quit that other application, or use a
+different port number for this instance of the Broker.
+|#]
+
+
+[#|2023-10-17T20:03:03.392+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|ERROR Portmapper service failed to start
+|#]
+
+
+[#|2023-10-17T20:03:04.485+0300|WARNING|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[S2004]: Log output channel com.sun.messaging.jmq.util.log.SysLogHandler is disabled: no imqutil in java.library.path|#]
+
+
+[#|2023-10-17T20:03:04.489+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|
+================================================================================
+Message Queue 5.1.2
+Oracle
+Version:  5.1.2  (Build 1-a)
+Compile:  March 14 2018 2057
+
+Copyright (c) 2013-2018 Oracle and/or its affiliates.  All rights reserved.
+================================================================================
+Java Runtime: 1.8.0_361 Oracle Corporation C:\Program Files\Java\jdk1.8.0_361\jre
+|#]
+
+
+[#|2023-10-17T20:03:04.500+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|   IMQ_HOME=C:\Users\User\Desktop\TPI\mq
+|#]
+
+
+[#|2023-10-17T20:03:04.500+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|IMQ_VARHOME=C:\Users\User\Desktop\TPI\mq\var
+|#]
+
+
+[#|2023-10-17T20:03:04.501+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|Windows 10 10.0 amd64 NIKITA (8 cpu) User
+|#]
+
+
+[#|2023-10-17T20:03:04.503+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|Java Heap Size: max=175104k, current=19968k
+|#]
+
+
+[#|2023-10-17T20:03:04.505+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|Arguments: 
+|#]
+
+
+[#|2023-10-17T20:03:04.509+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1522]: Create thread pool portmapper for (8, 8)(60s) service
+|#]
+
+
+[#|2023-10-17T20:03:04.512+0300|SEVERE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|ERROR [B3068]: Could not start the Broker's portmapper service on port 7676.
+This port is already in use by another application -- possibly another
+instance of the Broker. Please quit that other application, or use a
+different port number for this instance of the Broker.
+|#]
+
+
+[#|2023-10-17T20:03:04.512+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|ERROR Portmapper service failed to start
+|#]
+
+
+[#|2023-10-17T20:03:09.740+0300|WARNING|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[S2004]: Log output channel com.sun.messaging.jmq.util.log.SysLogHandler is disabled: no imqutil in java.library.path|#]
+
+
+[#|2023-10-17T20:03:09.744+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|
+================================================================================
+Message Queue 5.1.2
+Oracle
+Version:  5.1.2  (Build 1-a)
+Compile:  March 14 2018 2057
+
+Copyright (c) 2013-2018 Oracle and/or its affiliates.  All rights reserved.
+================================================================================
+Java Runtime: 1.8.0_361 Oracle Corporation C:\Program Files\Java\jdk1.8.0_361\jre
+|#]
+
+
+[#|2023-10-17T20:03:09.754+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|   IMQ_HOME=C:\Users\User\Desktop\TPI\mq
+|#]
+
+
+[#|2023-10-17T20:03:09.755+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|IMQ_VARHOME=C:\Users\User\Desktop\TPI\mq\var
+|#]
+
+
+[#|2023-10-17T20:03:09.755+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|Windows 10 10.0 amd64 NIKITA (8 cpu) User
+|#]
+
+
+[#|2023-10-17T20:03:09.758+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|Java Heap Size: max=175104k, current=19968k
+|#]
+
+
+[#|2023-10-17T20:03:09.758+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|Arguments: 
+|#]
+
+
+[#|2023-10-17T20:03:09.761+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1522]: Create thread pool portmapper for (8, 8)(60s) service
+|#]
+
+
+[#|2023-10-17T20:03:09.765+0300|SEVERE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|ERROR [B3068]: Could not start the Broker's portmapper service on port 7676.
+This port is already in use by another application -- possibly another
+instance of the Broker. Please quit that other application, or use a
+different port number for this instance of the Broker.
+|#]
+
+
+[#|2023-10-17T20:03:09.766+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|ERROR Portmapper service failed to start
+|#]
+
+
+[#|2023-10-17T20:04:35.103+0300|WARNING|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[S2004]: Log output channel com.sun.messaging.jmq.util.log.SysLogHandler is disabled: no imqutil in java.library.path|#]
+
+
+[#|2023-10-17T20:04:35.107+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|
+================================================================================
+Message Queue 5.1.2
+Oracle
+Version:  5.1.2  (Build 1-a)
+Compile:  March 14 2018 2057
+
+Copyright (c) 2013-2018 Oracle and/or its affiliates.  All rights reserved.
+================================================================================
+Java Runtime: 1.8.0_361 Oracle Corporation C:\Program Files\Java\jdk1.8.0_361\jre
+|#]
+
+
+[#|2023-10-17T20:04:35.117+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|   IMQ_HOME=C:\Users\User\Desktop\TPI\mq
+|#]
+
+
+[#|2023-10-17T20:04:35.117+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|IMQ_VARHOME=C:\Users\User\Desktop\TPI\mq\var
+|#]
+
+
+[#|2023-10-17T20:04:35.118+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|Windows 10 10.0 amd64 NIKITA (8 cpu) User
+|#]
+
+
+[#|2023-10-17T20:04:35.120+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|Java Heap Size: max=175104k, current=19968k
+|#]
+
+
+[#|2023-10-17T20:04:35.120+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|Arguments: 
+|#]
+
+
+[#|2023-10-17T20:04:35.124+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1522]: Create thread pool portmapper for (8, 8)(60s) service
+|#]
+
+
+[#|2023-10-17T20:04:35.128+0300|SEVERE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|ERROR [B3068]: Could not start the Broker's portmapper service on port 7676.
+This port is already in use by another application -- possibly another
+instance of the Broker. Please quit that other application, or use a
+different port number for this instance of the Broker.
+|#]
+
+
+[#|2023-10-17T20:04:35.129+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|ERROR Portmapper service failed to start
+|#]
+
+
+[#|2023-10-17T20:04:50.719+0300|WARNING|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[S2004]: Log output channel com.sun.messaging.jmq.util.log.SysLogHandler is disabled: no imqutil in java.library.path|#]
+
+
+[#|2023-10-17T20:04:50.724+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|
+================================================================================
+Message Queue 5.1.2
+Oracle
+Version:  5.1.2  (Build 1-a)
+Compile:  March 14 2018 2057
+
+Copyright (c) 2013-2018 Oracle and/or its affiliates.  All rights reserved.
+================================================================================
+Java Runtime: 1.8.0_361 Oracle Corporation C:\Program Files\Java\jdk1.8.0_361\jre
+|#]
+
+
+[#|2023-10-17T20:04:50.734+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|   IMQ_HOME=C:\Users\User\Desktop\TPI\mq
+|#]
+
+
+[#|2023-10-17T20:04:50.734+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|IMQ_VARHOME=C:\Users\User\Desktop\TPI\mq\var
+|#]
+
+
+[#|2023-10-17T20:04:50.735+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|Windows 10 10.0 amd64 NIKITA (8 cpu) User
+|#]
+
+
+[#|2023-10-17T20:04:50.736+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|Java Heap Size: max=175104k, current=19968k
+|#]
+
+
+[#|2023-10-17T20:04:50.736+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|Arguments: 
+|#]
+
+
+[#|2023-10-17T20:04:50.742+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1522]: Create thread pool portmapper for (8, 8)(60s) service
+|#]
+
+
+[#|2023-10-17T20:04:50.745+0300|SEVERE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|ERROR [B3068]: Could not start the Broker's portmapper service on port 7676.
+This port is already in use by another application -- possibly another
+instance of the Broker. Please quit that other application, or use a
+different port number for this instance of the Broker.
+|#]
+
+
+[#|2023-10-17T20:04:50.745+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|ERROR Portmapper service failed to start
+|#]
+
+
+[#|2023-10-19T08:35:06.789+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|
+================================================================================
+Message Queue 5.1.2
+Oracle
+Version:  5.1.2  (Build 1-a)
+Compile:  March 14 2018 2057
+
+Copyright (c) 2013-2018 Oracle and/or its affiliates.  All rights reserved.
+================================================================================
+Java Runtime: 11.0.18 Oracle Corporation C:\Program Files\Java\jdk-11.0.18
+|#]
+
+
+[#|2023-10-19T08:35:06.819+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|   IMQ_HOME=C:\Users\User\Desktop\mq
+|#]
+
+
+[#|2023-10-19T08:35:06.819+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|IMQ_VARHOME=C:\Users\User\Desktop\mq\var
+|#]
+
+
+[#|2023-10-19T08:35:06.820+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|Windows 10 10.0 amd64 NIKITA (8 cpu) User
+|#]
+
+
+[#|2023-10-19T08:35:06.822+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|Java Heap Size: max=196608k, current=16384k
+|#]
+
+
+[#|2023-10-19T08:35:06.823+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|Arguments: 
+|#]
+
+
+[#|2023-10-19T08:35:06.828+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1522]: Create thread pool portmapper for (8, 8)(60s) service
+|#]
+
+
+[#|2023-10-19T08:35:06.832+0300|SEVERE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|ERROR [B3068]: Could not start the Broker's portmapper service on port 7676.
+This port is already in use by another application -- possibly another
+instance of the Broker. Please quit that other application, or use a
+different port number for this instance of the Broker.
+|#]
+
+
+[#|2023-10-19T08:35:06.834+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|ERROR Portmapper service failed to start
+|#]
+
+
+[#|2023-10-19T08:35:25.981+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|
+================================================================================
+Message Queue 5.1.2
+Oracle
+Version:  5.1.2  (Build 1-a)
+Compile:  March 14 2018 2057
+
+Copyright (c) 2013-2018 Oracle and/or its affiliates.  All rights reserved.
+================================================================================
+Java Runtime: 11.0.18 Oracle Corporation C:\Program Files\Java\jdk-11.0.18
+|#]
+
+
+[#|2023-10-19T08:35:26.005+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|   IMQ_HOME=C:\Users\User\Desktop\mq
+|#]
+
+
+[#|2023-10-19T08:35:26.006+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|IMQ_VARHOME=C:\Users\User\Desktop\mq\var
+|#]
+
+
+[#|2023-10-19T08:35:26.007+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|Windows 10 10.0 amd64 NIKITA (8 cpu) User
+|#]
+
+
+[#|2023-10-19T08:35:26.009+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|Java Heap Size: max=196608k, current=16384k
+|#]
+
+
+[#|2023-10-19T08:35:26.009+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|Arguments: 
+|#]
+
+
+[#|2023-10-19T08:35:26.015+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1522]: Create thread pool portmapper for (8, 8)(60s) service
+|#]
+
+
+[#|2023-10-19T08:35:26.019+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1004]: Starting the portmapper service using tcp [ 7676, 50, * ] with min threads 1 and max threads of 1 
+|#]
+
+
+[#|2023-10-19T08:35:26.030+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|imq.persist.minimizeWrites=true
+|#]
+
+
+[#|2023-10-19T08:35:26.030+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|imq.persist.file.minimizeWrites=false
+|#]
+
+
+[#|2023-10-19T08:35:26.040+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1060]: Loading persistent data...
+|#]
+
+
+[#|2023-10-19T08:35:26.041+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|Using built-in file-based persistent store: C:\Users\User\Desktop\mq\var\instances\imqbroker\
+|#]
+
+
+[#|2023-10-19T08:35:26.078+0300|WARNING|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|WARNING Existing file: incompleteTxnStorehas older cookie version than current version. Current version = 1. Original file version = 0
+|#]
+
+
+[#|2023-10-19T08:35:26.090+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B2219]: Broker property setting imq.persist.minimizeWritesLevel2=true will be ignored
+|#]
+
+
+[#|2023-10-19T08:35:26.107+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1041]: Cluster initialization successful.
+|#]
+
+
+[#|2023-10-19T08:35:26.134+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1013]: Auto Creation of Queues is enabled
+|#]
+
+
+[#|2023-10-19T08:35:26.151+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|new transaction log enabled
+|#]
+
+
+[#|2023-10-19T08:35:26.151+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|sync writes to disk = false
+|#]
+
+
+[#|2023-10-19T08:35:26.151+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|logNonTransactedMsgSend = false
+|#]
+
+
+[#|2023-10-19T08:35:26.151+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|logNonTransactedMsgAck = false
+|#]
+
+
+[#|2023-10-19T08:35:26.152+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1392]: Opening transaction log with file mode rw, maximum size 10 485 760 bytes
+|#]
+
+
+[#|2023-10-19T08:35:26.171+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1136]: Processing stored transactions
+|#]
+
+
+[#|2023-10-19T08:35:26.172+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1390]: Loading of transactions has been successfully completed
+|#]
+
+
+[#|2023-10-19T08:35:26.172+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1434]: Retrieving stored destinations
+|#]
+
+
+[#|2023-10-19T08:35:26.172+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1503]: Retrieved 0 destinations from store
+|#]
+
+
+[#|2023-10-19T08:35:26.173+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1144]: Creating Dead Message Queue
+|#]
+
+
+[#|2023-10-19T08:35:26.180+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1158]: Administrator has created destination mq.sys.dmq [Queue]
+|#]
+
+
+[#|2023-10-19T08:35:26.308+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1239]: Using platform MBean server
+|#]
+
+
+[#|2023-10-19T08:35:26.535+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1234]: JMX Connector Server jmxrmi started successfully with url service:jmx:rmi://NIKITA/stub/rO0ABXNyAC5qYXZheC5tYW5hZ2VtZW50LnJlbW90ZS5ybWkuUk1JU2VydmVySW1wbF9TdHViAAAAAAAAAAICAAB4cgAaamF2YS5ybWkuc2VydmVyLlJlbW90ZVN0dWLp/tzJi+FlGgIAAHhyABxqYXZhLnJtaS5zZXJ2ZXIuUmVtb3RlT2JqZWN002G0kQxhMx4DAAB4cHc3AApVbmljYXN0UmVmAA4xOTIuMTY4LjQzLjE0OAAA0xL89fr6+ckalsgBM3UAAAGLRm52boABAHg=
+|#]
+
+
+[#|2023-10-19T08:35:26.576+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1004]: Starting the admin service using tcp(host = *, port=0, mode=dedicated) with min threads 4 and max threads of 10 
+|#]
+
+
+[#|2023-10-19T08:35:26.576+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1227]: Using file user repository for admin service connection authentication
+|#]
+
+
+[#|2023-10-19T08:35:26.579+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1004]: Starting the jms service using tcp(host = *, port=0, mode=dedicated) with min threads 10 and max threads of 1000 
+|#]
+
+
+[#|2023-10-19T08:35:26.580+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1227]: Using file user repository for jms service connection authentication
+|#]
+
+
+[#|2023-10-19T08:35:26.586+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1004]: Starting the cluster service using tcp [ 0.0.0.0/0.0.0.0:54037 ] with min threads 1 and max threads of 1 
+|#]
+
+
+[#|2023-10-19T08:35:26.586+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1228]: Cluster ping interval is 60 seconds
+|#]
+
+
+[#|2023-10-19T08:35:26.587+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1039]: Broker "imqbroker@NIKITA:7676" ready.
+|#]
+
+
+[#|2023-10-19T08:35:43.045+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=27;_ThreadName=Thread-jms[0];|[B1065]: Accepting: admin@127.0.0.1:54044->jms:54035. Count: service=1 broker=1
+|#]
+
+
+[#|2023-10-19T08:35:43.122+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=27;_ThreadName=Thread-jms[0];|[B1132]: Auto-creating destination Ex2_ASYNC [Queue] 
+|#]
+
+
+[#|2023-10-19T08:35:51.119+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=30;_ThreadName=Thread-jms[2];|[B1065]: Accepting: admin@127.0.0.1:54053->jms:54035. Count: service=2 broker=2
+|#]
+
+
+[#|2023-10-19T08:35:51.206+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=30;_ThreadName=Thread-jms[2];|[B1066]:   Closing: admin@127.0.0.1:54053->jms:54035 because "[B0059]: Client closed the connection". Count: service=1 broker=1
+|#]
+
+
+[#|2023-10-19T08:35:56.944+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=27;_ThreadName=Thread-jms[0];|[B1066]:   Closing: admin@127.0.0.1:54044->jms:54035 because "java.net.SocketException: Connection reset". Count: service=0 broker=0
+|#]
+
+
+[#|2023-10-19T08:36:46.410+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|
+================================================================================
+Message Queue 5.1.2
+Oracle
+Version:  5.1.2  (Build 1-a)
+Compile:  March 14 2018 2057
+
+Copyright (c) 2013-2018 Oracle and/or its affiliates.  All rights reserved.
+================================================================================
+Java Runtime: 11.0.18 Oracle Corporation C:\Program Files\Java\jdk-11.0.18
+|#]
+
+
+[#|2023-10-19T08:36:46.434+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|   IMQ_HOME=C:\Users\User\Desktop\TPI\TPI_Lab01\mq
+|#]
+
+
+[#|2023-10-19T08:36:46.434+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|IMQ_VARHOME=C:\Users\User\Desktop\TPI\TPI_Lab01\mq\var
+|#]
+
+
+[#|2023-10-19T08:36:46.434+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|Windows 10 10.0 amd64 NIKITA (8 cpu) User
+|#]
+
+
+[#|2023-10-19T08:36:46.439+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|Java Heap Size: max=196608k, current=16384k
+|#]
+
+
+[#|2023-10-19T08:36:46.439+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|Arguments: 
+|#]
+
+
+[#|2023-10-19T08:36:46.443+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1522]: Create thread pool portmapper for (8, 8)(60s) service
+|#]
+
+
+[#|2023-10-19T08:36:46.447+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1004]: Starting the portmapper service using tcp [ 7676, 50, * ] with min threads 1 and max threads of 1 
+|#]
+
+
+[#|2023-10-19T08:36:46.455+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|imq.persist.minimizeWrites=true
+|#]
+
+
+[#|2023-10-19T08:36:46.455+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|imq.persist.file.minimizeWrites=false
+|#]
+
+
+[#|2023-10-19T08:36:46.463+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1060]: Loading persistent data...
+|#]
+
+
+[#|2023-10-19T08:36:46.463+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|Using built-in file-based persistent store: C:\Users\User\Desktop\TPI\TPI_Lab01\mq\var\instances\imqbroker\
+|#]
+
+
+[#|2023-10-19T08:36:46.538+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B2219]: Broker property setting imq.persist.minimizeWritesLevel2=true will be ignored
+|#]
+
+
+[#|2023-10-19T08:36:46.546+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1041]: Cluster initialization successful.
+|#]
+
+
+[#|2023-10-19T08:36:46.571+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1013]: Auto Creation of Queues is enabled
+|#]
+
+
+[#|2023-10-19T08:36:46.591+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|new transaction log enabled
+|#]
+
+
+[#|2023-10-19T08:36:46.591+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|sync writes to disk = false
+|#]
+
+
+[#|2023-10-19T08:36:46.591+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|logNonTransactedMsgSend = false
+|#]
+
+
+[#|2023-10-19T08:36:46.591+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|logNonTransactedMsgAck = false
+|#]
+
+
+[#|2023-10-19T08:36:46.591+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1392]: Opening transaction log with file mode rw, maximum size 10 485 760 bytes
+|#]
+
+
+[#|2023-10-19T08:36:46.591+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1270]: Processing messages from transaction log file...
+|#]
+
+
+[#|2023-10-19T08:36:46.595+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1434]: Retrieving stored destinations
+|#]
+
+
+[#|2023-10-19T08:36:46.595+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1503]: Retrieved 2 destinations from store
+|#]
+
+
+[#|2023-10-19T08:36:46.599+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1517]: Destroying destination Ex2_ASYNC [Queue] 
+|#]
+
+
+[#|2023-10-19T08:36:46.599+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1151]: Loading destination Ex2_ASYNC [Queue] with 0 messages
+|#]
+
+
+[#|2023-10-19T08:36:46.599+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1152]: Loading of destination Ex2_ASYNC [Queue] complete
+|#]
+
+
+[#|2023-10-19T08:36:46.603+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1387]: Purged 0 messages from destination Ex2_ASYNC [Queue]
+|#]
+
+
+[#|2023-10-19T08:36:46.608+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1159]: Destination Ex2_ASYNC [Queue] has been destroyed
+|#]
+
+
+[#|2023-10-19T08:36:46.608+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1151]: Loading destination mq.sys.dmq [Queue] with 0 messages
+|#]
+
+
+[#|2023-10-19T08:36:46.608+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1152]: Loading of destination mq.sys.dmq [Queue] complete
+|#]
+
+
+[#|2023-10-19T08:36:46.613+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1136]: Processing stored transactions
+|#]
+
+
+[#|2023-10-19T08:36:46.613+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1390]: Loading of transactions has been successfully completed
+|#]
+
+
+[#|2023-10-19T08:36:46.705+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1239]: Using platform MBean server
+|#]
+
+
+[#|2023-10-19T08:36:46.883+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1234]: JMX Connector Server jmxrmi started successfully with url service:jmx:rmi://NIKITA/stub/rO0ABXNyAC5qYXZheC5tYW5hZ2VtZW50LnJlbW90ZS5ybWkuUk1JU2VydmVySW1wbF9TdHViAAAAAAAAAAICAAB4cgAaamF2YS5ybWkuc2VydmVyLlJlbW90ZVN0dWLp/tzJi+FlGgIAAHhyABxqYXZhLnJtaS5zZXJ2ZXIuUmVtb3RlT2JqZWN002G0kQxhMx4DAAB4cHc3AApVbmljYXN0UmVmAA4xOTIuMTY4LjQzLjE0OAAA0zXuqkVRMHkfrjCfSs8AAAGLRm+wfoABAHg=
+|#]
+
+
+[#|2023-10-19T08:36:46.916+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1004]: Starting the admin service using tcp(host = *, port=0, mode=dedicated) with min threads 4 and max threads of 10 
+|#]
+
+
+[#|2023-10-19T08:36:46.916+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1227]: Using file user repository for admin service connection authentication
+|#]
+
+
+[#|2023-10-19T08:36:46.920+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1004]: Starting the jms service using tcp(host = *, port=0, mode=dedicated) with min threads 10 and max threads of 1000 
+|#]
+
+
+[#|2023-10-19T08:36:46.920+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1227]: Using file user repository for jms service connection authentication
+|#]
+
+
+[#|2023-10-19T08:36:46.929+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1004]: Starting the cluster service using tcp [ 0.0.0.0/0.0.0.0:54072 ] with min threads 1 and max threads of 1 
+|#]
+
+
+[#|2023-10-19T08:36:46.929+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1228]: Cluster ping interval is 60 seconds
+|#]
+
+
+[#|2023-10-19T08:36:46.933+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1039]: Broker "imqbroker@NIKITA:7676" ready.
+|#]
+
+
+[#|2023-10-19T11:27:00.503+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|
+================================================================================
+Message Queue 5.1.2
+Oracle
+Version:  5.1.2  (Build 1-a)
+Compile:  March 14 2018 2057
+
+Copyright (c) 2013-2018 Oracle and/or its affiliates.  All rights reserved.
+================================================================================
+Java Runtime: 11.0.18 Oracle Corporation C:\Program Files\Java\jdk-11.0.18
+|#]
+
+
+[#|2023-10-19T11:27:00.518+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|   IMQ_HOME=C:\Users\User\Desktop\TPI\TPI_Lab01\mq
+|#]
+
+
+[#|2023-10-19T11:27:00.519+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|IMQ_VARHOME=C:\Users\User\Desktop\TPI\TPI_Lab01\mq\var
+|#]
+
+
+[#|2023-10-19T11:27:00.519+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|Windows 10 10.0 amd64 NIKITA (8 cpu) User
+|#]
+
+
+[#|2023-10-19T11:27:00.521+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|Java Heap Size: max=196608k, current=16384k
+|#]
+
+
+[#|2023-10-19T11:27:00.521+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|Arguments: 
+|#]
+
+
+[#|2023-10-19T11:27:00.525+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1522]: Create thread pool portmapper for (8, 8)(60s) service
+|#]
+
+
+[#|2023-10-19T11:27:00.530+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1004]: Starting the portmapper service using tcp [ 7676, 50, * ] with min threads 1 and max threads of 1 
+|#]
+
+
+[#|2023-10-19T11:27:00.535+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|imq.persist.minimizeWrites=true
+|#]
+
+
+[#|2023-10-19T11:27:00.535+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|imq.persist.file.minimizeWrites=false
+|#]
+
+
+[#|2023-10-19T11:27:00.540+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1060]: Loading persistent data...
+|#]
+
+
+[#|2023-10-19T11:27:00.540+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|Using built-in file-based persistent store: C:\Users\User\Desktop\TPI\TPI_Lab01\mq\var\instances\imqbroker\
+|#]
+
+
+[#|2023-10-19T11:27:00.595+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B2219]: Broker property setting imq.persist.minimizeWritesLevel2=true will be ignored
+|#]
+
+
+[#|2023-10-19T11:27:00.601+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1041]: Cluster initialization successful.
+|#]
+
+
+[#|2023-10-19T11:27:00.619+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1013]: Auto Creation of Queues is enabled
+|#]
+
+
+[#|2023-10-19T11:27:00.630+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|new transaction log enabled
+|#]
+
+
+[#|2023-10-19T11:27:00.631+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|sync writes to disk = false
+|#]
+
+
+[#|2023-10-19T11:27:00.631+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|logNonTransactedMsgSend = false
+|#]
+
+
+[#|2023-10-19T11:27:00.631+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|logNonTransactedMsgAck = false
+|#]
+
+
+[#|2023-10-19T11:27:00.631+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1392]: Opening transaction log with file mode rw, maximum size 10 485 760 bytes
+|#]
+
+
+[#|2023-10-19T11:27:00.635+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1270]: Processing messages from transaction log file...
+|#]
+
+
+[#|2023-10-19T11:27:00.635+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1434]: Retrieving stored destinations
+|#]
+
+
+[#|2023-10-19T11:27:00.636+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1503]: Retrieved 1 destinations from store
+|#]
+
+
+[#|2023-10-19T11:27:00.637+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1151]: Loading destination mq.sys.dmq [Queue] with 0 messages
+|#]
+
+
+[#|2023-10-19T11:27:00.638+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1152]: Loading of destination mq.sys.dmq [Queue] complete
+|#]
+
+
+[#|2023-10-19T11:27:00.641+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1136]: Processing stored transactions
+|#]
+
+
+[#|2023-10-19T11:27:00.641+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1390]: Loading of transactions has been successfully completed
+|#]
+
+
+[#|2023-10-19T11:27:00.710+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1239]: Using platform MBean server
+|#]
+
+
+[#|2023-10-19T11:27:00.852+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1234]: JMX Connector Server jmxrmi started successfully with url service:jmx:rmi://NIKITA/stub/rO0ABXNyAC5qYXZheC5tYW5hZ2VtZW50LnJlbW90ZS5ybWkuUk1JU2VydmVySW1wbF9TdHViAAAAAAAAAAICAAB4cgAaamF2YS5ybWkuc2VydmVyLlJlbW90ZVN0dWLp/tzJi+FlGgIAAHhyABxqYXZhLnJtaS5zZXJ2ZXIuUmVtb3RlT2JqZWN002G0kQxhMx4DAAB4cHc3AApVbmljYXN0UmVmAA4xOTIuMTY4LjQzLjE0OAAA0jgq2lmcKSzWVzJdvwAAAAGLRwuK7oABAHg=
+|#]
+
+
+[#|2023-10-19T11:27:00.879+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1004]: Starting the admin service using tcp(host = *, port=0, mode=dedicated) with min threads 4 and max threads of 10 
+|#]
+
+
+[#|2023-10-19T11:27:00.880+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1227]: Using file user repository for admin service connection authentication
+|#]
+
+
+[#|2023-10-19T11:27:00.882+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1004]: Starting the jms service using tcp(host = *, port=0, mode=dedicated) with min threads 10 and max threads of 1000 
+|#]
+
+
+[#|2023-10-19T11:27:00.882+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1227]: Using file user repository for jms service connection authentication
+|#]
+
+
+[#|2023-10-19T11:27:00.887+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1004]: Starting the cluster service using tcp [ 0.0.0.0/0.0.0.0:53819 ] with min threads 1 and max threads of 1 
+|#]
+
+
+[#|2023-10-19T11:27:00.887+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1228]: Cluster ping interval is 60 seconds
+|#]
+
+
+[#|2023-10-19T11:27:00.888+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1039]: Broker "imqbroker@NIKITA:7676" ready.
+|#]
+
+
+[#|2023-10-19T11:28:18.008+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=27;_ThreadName=Thread-jms[0];|[B1065]: Accepting: admin@127.0.0.1:53827->jms:53817. Count: service=1 broker=1
+|#]
+
+
+[#|2023-10-19T11:28:18.031+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=27;_ThreadName=Thread-jms[0];|[B1132]: Auto-creating destination Ex2_ASYNC [Queue] 
+|#]
+
+
+[#|2023-10-19T11:28:20.960+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=30;_ThreadName=Thread-jms[2];|[B1065]: Accepting: admin@127.0.0.1:53834->jms:53817. Count: service=2 broker=2
+|#]
+
+
+[#|2023-10-19T11:28:21.008+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=30;_ThreadName=Thread-jms[2];|[B1066]:   Closing: admin@127.0.0.1:53834->jms:53817 because "[B0059]: Client closed the connection". Count: service=1 broker=1
+|#]
+
+
+[#|2023-10-19T11:29:53.053+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=27;_ThreadName=Thread-jms[0];|[B1066]:   Closing: admin@127.0.0.1:53827->jms:53817 because "java.net.SocketException: Connection reset". Count: service=0 broker=0
+|#]
+
+
+[#|2023-10-19T11:31:53.056+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=15;_ThreadName=MQTimer-Thread;|[B1130]: Destroying auto-created destination Ex2_ASYNC [Queue] inactive for 120 seconds
+|#]
+
+
+[#|2023-10-19T11:31:53.057+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=15;_ThreadName=MQTimer-Thread;|[B1517]: Destroying destination Ex2_ASYNC [Queue] 
+|#]
+
+
+[#|2023-10-19T11:31:53.059+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=15;_ThreadName=MQTimer-Thread;|[B1387]: Purged 0 messages from destination Ex2_ASYNC [Queue]
+|#]
+
+
+[#|2023-10-19T11:31:53.069+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=15;_ThreadName=MQTimer-Thread;|[B1159]: Destination Ex2_ASYNC [Queue] has been destroyed
+|#]
+
+
+[#|2023-10-19T11:34:48.533+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=27;_ThreadName=Thread-jms[0];|[B1065]: Accepting: admin@127.0.0.1:53921->jms:53817. Count: service=1 broker=1
+|#]
+
+
+[#|2023-10-19T11:34:48.579+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=27;_ThreadName=Thread-jms[0];|[B1132]: Auto-creating destination Servlet [Queue] 
+|#]
+
+
+[#|2023-10-19T11:34:56.105+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=30;_ThreadName=Thread-jms[2];|[B1065]: Accepting: admin@127.0.0.1:53925->jms:53817. Count: service=2 broker=2
+|#]
+
+
+[#|2023-10-19T11:36:00.832+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=27;_ThreadName=Thread-jms[0];|[B1066]:   Closing: admin@127.0.0.1:53921->jms:53817 because "java.net.SocketException: Connection reset". Count: service=1 broker=1
+|#]
+
+
+[#|2023-10-19T11:36:03.998+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=30;_ThreadName=Thread-jms[2];|[B1066]:   Closing: admin@127.0.0.1:53925->jms:53817 because "java.net.SocketException: Connection reset". Count: service=0 broker=0
+|#]
+
+
+[#|2023-10-19T11:53:38.338+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|
+================================================================================
+Message Queue 5.1.2
+Oracle
+Version:  5.1.2  (Build 1-a)
+Compile:  March 14 2018 2057
+
+Copyright (c) 2013-2018 Oracle and/or its affiliates.  All rights reserved.
+================================================================================
+Java Runtime: 11.0.18 Oracle Corporation C:\Program Files\Java\jdk-11.0.18
+|#]
+
+
+[#|2023-10-19T11:53:38.354+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|   IMQ_HOME=C:\Users\User\Desktop\TPI\TPI_Lab01\mq
+|#]
+
+
+[#|2023-10-19T11:53:38.354+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|IMQ_VARHOME=C:\Users\User\Desktop\TPI\TPI_Lab01\mq\var
+|#]
+
+
+[#|2023-10-19T11:53:38.355+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|Windows 10 10.0 amd64 NIKITA (8 cpu) User
+|#]
+
+
+[#|2023-10-19T11:53:38.356+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|Java Heap Size: max=196608k, current=16384k
+|#]
+
+
+[#|2023-10-19T11:53:38.357+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|Arguments: 
+|#]
+
+
+[#|2023-10-19T11:53:38.361+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1522]: Create thread pool portmapper for (8, 8)(60s) service
+|#]
+
+
+[#|2023-10-19T11:53:38.363+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1004]: Starting the portmapper service using tcp [ 7676, 50, * ] with min threads 1 and max threads of 1 
+|#]
+
+
+[#|2023-10-19T11:53:38.369+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|imq.persist.minimizeWrites=true
+|#]
+
+
+[#|2023-10-19T11:53:38.371+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|imq.persist.file.minimizeWrites=false
+|#]
+
+
+[#|2023-10-19T11:53:38.375+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1060]: Loading persistent data...
+|#]
+
+
+[#|2023-10-19T11:53:38.375+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|Using built-in file-based persistent store: C:\Users\User\Desktop\TPI\TPI_Lab01\mq\var\instances\imqbroker\
+|#]
+
+
+[#|2023-10-19T11:53:38.434+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B2219]: Broker property setting imq.persist.minimizeWritesLevel2=true will be ignored
+|#]
+
+
+[#|2023-10-19T11:53:38.440+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1041]: Cluster initialization successful.
+|#]
+
+
+[#|2023-10-19T11:53:38.458+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1013]: Auto Creation of Queues is enabled
+|#]
+
+
+[#|2023-10-19T11:53:38.470+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|new transaction log enabled
+|#]
+
+
+[#|2023-10-19T11:53:38.470+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|sync writes to disk = false
+|#]
+
+
+[#|2023-10-19T11:53:38.470+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|logNonTransactedMsgSend = false
+|#]
+
+
+[#|2023-10-19T11:53:38.470+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|logNonTransactedMsgAck = false
+|#]
+
+
+[#|2023-10-19T11:53:38.471+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1392]: Opening transaction log with file mode rw, maximum size 10 485 760 bytes
+|#]
+
+
+[#|2023-10-19T11:53:38.473+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1270]: Processing messages from transaction log file...
+|#]
+
+
+[#|2023-10-19T11:53:38.473+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1434]: Retrieving stored destinations
+|#]
+
+
+[#|2023-10-19T11:53:38.474+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1503]: Retrieved 2 destinations from store
+|#]
+
+
+[#|2023-10-19T11:53:38.477+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1517]: Destroying destination Servlet [Queue] 
+|#]
+
+
+[#|2023-10-19T11:53:38.478+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1151]: Loading destination Servlet [Queue] with 0 messages
+|#]
+
+
+[#|2023-10-19T11:53:38.479+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1152]: Loading of destination Servlet [Queue] complete
+|#]
+
+
+[#|2023-10-19T11:53:38.479+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1387]: Purged 0 messages from destination Servlet [Queue]
+|#]
+
+
+[#|2023-10-19T11:53:38.483+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1159]: Destination Servlet [Queue] has been destroyed
+|#]
+
+
+[#|2023-10-19T11:53:38.483+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1151]: Loading destination mq.sys.dmq [Queue] with 0 messages
+|#]
+
+
+[#|2023-10-19T11:53:38.483+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1152]: Loading of destination mq.sys.dmq [Queue] complete
+|#]
+
+
+[#|2023-10-19T11:53:38.487+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1136]: Processing stored transactions
+|#]
+
+
+[#|2023-10-19T11:53:38.488+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1390]: Loading of transactions has been successfully completed
+|#]
+
+
+[#|2023-10-19T11:53:38.559+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1239]: Using platform MBean server
+|#]
+
+
+[#|2023-10-19T11:53:38.711+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1234]: JMX Connector Server jmxrmi started successfully with url service:jmx:rmi://NIKITA/stub/rO0ABXNyAC5qYXZheC5tYW5hZ2VtZW50LnJlbW90ZS5ybWkuUk1JU2VydmVySW1wbF9TdHViAAAAAAAAAAICAAB4cgAaamF2YS5ybWkuc2VydmVyLlJlbW90ZVN0dWLp/tzJi+FlGgIAAHhyABxqYXZhLnJtaS5zZXJ2ZXIuUmVtb3RlT2JqZWN002G0kQxhMx4DAAB4cHc3AApVbmljYXN0UmVmAA4xOTIuMTY4LjQzLjE0OAAA0+0GdgWC8v7qFiPGy60AAAGLRyPsh4ABAHg=
+|#]
+
+
+[#|2023-10-19T11:53:38.740+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1004]: Starting the admin service using tcp(host = *, port=0, mode=dedicated) with min threads 4 and max threads of 10 
+|#]
+
+
+[#|2023-10-19T11:53:38.740+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1227]: Using file user repository for admin service connection authentication
+|#]
+
+
+[#|2023-10-19T11:53:38.742+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1004]: Starting the jms service using tcp(host = *, port=0, mode=dedicated) with min threads 10 and max threads of 1000 
+|#]
+
+
+[#|2023-10-19T11:53:38.742+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1227]: Using file user repository for jms service connection authentication
+|#]
+
+
+[#|2023-10-19T11:53:38.747+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1004]: Starting the cluster service using tcp [ 0.0.0.0/0.0.0.0:54256 ] with min threads 1 and max threads of 1 
+|#]
+
+
+[#|2023-10-19T11:53:38.748+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1228]: Cluster ping interval is 60 seconds
+|#]
+
+
+[#|2023-10-19T11:53:38.749+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1039]: Broker "imqbroker@NIKITA:7676" ready.
+|#]
+
+
+[#|2023-10-19T11:53:46.872+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=27;_ThreadName=Thread-jms[0];|[B1065]: Accepting: admin@127.0.0.1:54264->jms:54254. Count: service=1 broker=1
+|#]
+
+
+[#|2023-10-19T11:53:46.897+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=27;_ThreadName=Thread-jms[0];|[B1132]: Auto-creating destination Ex2_ASYNC [Queue] 
+|#]
+
+
+[#|2023-10-19T11:53:50.706+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=30;_ThreadName=Thread-jms[2];|[B1065]: Accepting: admin@127.0.0.1:54271->jms:54254. Count: service=2 broker=2
+|#]
+
+
+[#|2023-10-19T11:53:50.756+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=30;_ThreadName=Thread-jms[2];|[B1066]:   Closing: admin@127.0.0.1:54271->jms:54254 because "[B0059]: Client closed the connection". Count: service=1 broker=1
+|#]
+
+
+[#|2023-10-19T11:53:57.156+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=27;_ThreadName=Thread-jms[0];|[B1066]:   Closing: admin@127.0.0.1:54264->jms:54254 because "java.net.SocketException: Connection reset". Count: service=0 broker=0
+|#]
+
+
+[#|2023-10-19T11:55:57.160+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=15;_ThreadName=MQTimer-Thread;|[B1130]: Destroying auto-created destination Ex2_ASYNC [Queue] inactive for 120 seconds
+|#]
+
+
+[#|2023-10-19T11:55:57.160+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=15;_ThreadName=MQTimer-Thread;|[B1517]: Destroying destination Ex2_ASYNC [Queue] 
+|#]
+
+
+[#|2023-10-19T11:55:57.160+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=15;_ThreadName=MQTimer-Thread;|[B1387]: Purged 0 messages from destination Ex2_ASYNC [Queue]
+|#]
+
+
+[#|2023-10-19T11:55:57.170+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=15;_ThreadName=MQTimer-Thread;|[B1159]: Destination Ex2_ASYNC [Queue] has been destroyed
+|#]
+
+
+[#|2023-10-19T11:56:33.278+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=27;_ThreadName=Thread-jms[0];|[B1065]: Accepting: admin@127.0.0.1:54342->jms:54254. Count: service=1 broker=1
+|#]
+
+
+[#|2023-10-19T11:56:33.330+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=27;_ThreadName=Thread-jms[0];|[B1132]: Auto-creating destination Servlet [Queue] 
+|#]
+
+
+[#|2023-10-19T11:56:39.407+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=30;_ThreadName=Thread-jms[2];|[B1065]: Accepting: admin@127.0.0.1:54346->jms:54254. Count: service=2 broker=2
+|#]
+
+
+[#|2023-10-19T11:56:55.131+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=30;_ThreadName=Thread-jms[2];|[B1066]:   Closing: admin@127.0.0.1:54346->jms:54254 because "java.net.SocketException: Connection reset". Count: service=1 broker=1
+|#]
+
+
+[#|2023-10-19T11:56:56.313+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=27;_ThreadName=Thread-jms[0];|[B1066]:   Closing: admin@127.0.0.1:54342->jms:54254 because "java.net.SocketException: Connection reset". Count: service=0 broker=0
+|#]
+
+
+[#|2023-10-19T12:09:02.770+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|
+================================================================================
+Message Queue 5.1.2
+Oracle
+Version:  5.1.2  (Build 1-a)
+Compile:  March 14 2018 2057
+
+Copyright (c) 2013-2018 Oracle and/or its affiliates.  All rights reserved.
+================================================================================
+Java Runtime: 11.0.18 Oracle Corporation C:\Program Files\Java\jdk-11.0.18
+|#]
+
+
+[#|2023-10-19T12:09:02.789+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|   IMQ_HOME=C:\Users\User\Desktop\TPI\TPI_Lab01\mq
+|#]
+
+
+[#|2023-10-19T12:09:02.790+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|IMQ_VARHOME=C:\Users\User\Desktop\TPI\TPI_Lab01\mq\var
+|#]
+
+
+[#|2023-10-19T12:09:02.792+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|Windows 10 10.0 amd64 NIKITA (8 cpu) User
+|#]
+
+
+[#|2023-10-19T12:09:02.793+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|Java Heap Size: max=196608k, current=16384k
+|#]
+
+
+[#|2023-10-19T12:09:02.794+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|Arguments: 
+|#]
+
+
+[#|2023-10-19T12:09:02.799+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1522]: Create thread pool portmapper for (8, 8)(60s) service
+|#]
+
+
+[#|2023-10-19T12:09:02.803+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1004]: Starting the portmapper service using tcp [ 7676, 50, * ] with min threads 1 and max threads of 1 
+|#]
+
+
+[#|2023-10-19T12:09:02.810+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|imq.persist.minimizeWrites=true
+|#]
+
+
+[#|2023-10-19T12:09:02.810+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|imq.persist.file.minimizeWrites=false
+|#]
+
+
+[#|2023-10-19T12:09:02.818+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1060]: Loading persistent data...
+|#]
+
+
+[#|2023-10-19T12:09:02.819+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|Using built-in file-based persistent store: C:\Users\User\Desktop\TPI\TPI_Lab01\mq\var\instances\imqbroker\
+|#]
+
+
+[#|2023-10-19T12:09:02.890+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B2219]: Broker property setting imq.persist.minimizeWritesLevel2=true will be ignored
+|#]
+
+
+[#|2023-10-19T12:09:02.897+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1041]: Cluster initialization successful.
+|#]
+
+
+[#|2023-10-19T12:09:02.919+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1013]: Auto Creation of Queues is enabled
+|#]
+
+
+[#|2023-10-19T12:09:02.931+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|new transaction log enabled
+|#]
+
+
+[#|2023-10-19T12:09:02.931+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|sync writes to disk = false
+|#]
+
+
+[#|2023-10-19T12:09:02.931+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|logNonTransactedMsgSend = false
+|#]
+
+
+[#|2023-10-19T12:09:02.932+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|logNonTransactedMsgAck = false
+|#]
+
+
+[#|2023-10-19T12:09:02.932+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1392]: Opening transaction log with file mode rw, maximum size 10 485 760 bytes
+|#]
+
+
+[#|2023-10-19T12:09:02.934+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1270]: Processing messages from transaction log file...
+|#]
+
+
+[#|2023-10-19T12:09:02.935+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1434]: Retrieving stored destinations
+|#]
+
+
+[#|2023-10-19T12:09:02.936+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1503]: Retrieved 2 destinations from store
+|#]
+
+
+[#|2023-10-19T12:09:02.940+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1517]: Destroying destination Servlet [Queue] 
+|#]
+
+
+[#|2023-10-19T12:09:02.941+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1151]: Loading destination Servlet [Queue] with 0 messages
+|#]
+
+
+[#|2023-10-19T12:09:02.942+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1152]: Loading of destination Servlet [Queue] complete
+|#]
+
+
+[#|2023-10-19T12:09:02.942+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1387]: Purged 0 messages from destination Servlet [Queue]
+|#]
+
+
+[#|2023-10-19T12:09:02.945+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1159]: Destination Servlet [Queue] has been destroyed
+|#]
+
+
+[#|2023-10-19T12:09:02.946+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1151]: Loading destination mq.sys.dmq [Queue] with 0 messages
+|#]
+
+
+[#|2023-10-19T12:09:02.946+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1152]: Loading of destination mq.sys.dmq [Queue] complete
+|#]
+
+
+[#|2023-10-19T12:09:02.952+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1136]: Processing stored transactions
+|#]
+
+
+[#|2023-10-19T12:09:02.952+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1390]: Loading of transactions has been successfully completed
+|#]
+
+
+[#|2023-10-19T12:09:03.046+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1239]: Using platform MBean server
+|#]
+
+
+[#|2023-10-19T12:09:03.266+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1234]: JMX Connector Server jmxrmi started successfully with url service:jmx:rmi://NIKITA/stub/rO0ABXNyAC5qYXZheC5tYW5hZ2VtZW50LnJlbW90ZS5ybWkuUk1JU2VydmVySW1wbF9TdHViAAAAAAAAAAICAAB4cgAaamF2YS5ybWkuc2VydmVyLlJlbW90ZVN0dWLp/tzJi+FlGgIAAHhyABxqYXZhLnJtaS5zZXJ2ZXIuUmVtb3RlT2JqZWN002G0kQxhMx4DAAB4cHc3AApVbmljYXN0UmVmAA4xOTIuMTY4LjQzLjE0OAAA1i+M5KSPK2NQd3qR8d0AAAGLRzIHzoABAHg=
+|#]
+
+
+[#|2023-10-19T12:09:03.310+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1004]: Starting the admin service using tcp(host = *, port=0, mode=dedicated) with min threads 4 and max threads of 10 
+|#]
+
+
+[#|2023-10-19T12:09:03.311+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1227]: Using file user repository for admin service connection authentication
+|#]
+
+
+[#|2023-10-19T12:09:03.314+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1004]: Starting the jms service using tcp(host = *, port=0, mode=dedicated) with min threads 10 and max threads of 1000 
+|#]
+
+
+[#|2023-10-19T12:09:03.315+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1227]: Using file user repository for jms service connection authentication
+|#]
+
+
+[#|2023-10-19T12:09:03.323+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1004]: Starting the cluster service using tcp [ 0.0.0.0/0.0.0.0:54834 ] with min threads 1 and max threads of 1 
+|#]
+
+
+[#|2023-10-19T12:09:03.325+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1228]: Cluster ping interval is 60 seconds
+|#]
+
+
+[#|2023-10-19T12:09:03.326+0300|FORCE|5.1.2|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1039]: Broker "imqbroker@NIKITA:7676" ready.
+|#]
+
+
+[#|2023-10-19T12:09:54.284+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=27;_ThreadName=Thread-jms[0];|[B1065]: Accepting: admin@127.0.0.1:54841->jms:54832. Count: service=1 broker=1
+|#]
+
+
+[#|2023-10-19T12:09:54.327+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=27;_ThreadName=Thread-jms[0];|[B1132]: Auto-creating destination Ex2_ASYNC [Queue] 
+|#]
+
+
+[#|2023-10-19T12:09:59.136+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=30;_ThreadName=Thread-jms[2];|[B1065]: Accepting: admin@127.0.0.1:54849->jms:54832. Count: service=2 broker=2
+|#]
+
+
+[#|2023-10-19T12:09:59.186+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=30;_ThreadName=Thread-jms[2];|[B1066]:   Closing: admin@127.0.0.1:54849->jms:54832 because "[B0059]: Client closed the connection". Count: service=1 broker=1
+|#]
+
+
+[#|2023-10-19T12:10:15.931+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=27;_ThreadName=Thread-jms[0];|[B1066]:   Closing: admin@127.0.0.1:54841->jms:54832 because "java.net.SocketException: Connection reset". Count: service=0 broker=0
+|#]
+
+
+[#|2023-10-19T12:10:29.705+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=27;_ThreadName=Thread-jms[0];|[B1065]: Accepting: admin@127.0.0.1:54859->jms:54832. Count: service=1 broker=1
+|#]
+
+
+[#|2023-10-19T12:10:29.726+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=27;_ThreadName=Thread-jms[0];|[B1132]: Auto-creating destination Ex2_SYNC [Queue] 
+|#]
+
+
+[#|2023-10-19T12:10:34.646+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=30;_ThreadName=Thread-jms[2];|[B1065]: Accepting: admin@127.0.0.1:54866->jms:54832. Count: service=2 broker=2
+|#]
+
+
+[#|2023-10-19T12:10:34.692+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=30;_ThreadName=Thread-jms[2];|[B1066]:   Closing: admin@127.0.0.1:54866->jms:54832 because "[B0059]: Client closed the connection". Count: service=1 broker=1
+|#]
+
+
+[#|2023-10-19T12:10:39.051+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=27;_ThreadName=Thread-jms[0];|[B1066]:   Closing: admin@127.0.0.1:54859->jms:54832 because "java.net.SocketException: Connection reset". Count: service=0 broker=0
+|#]
+
+
+[#|2023-10-19T12:12:15.936+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=15;_ThreadName=MQTimer-Thread;|[B1130]: Destroying auto-created destination Ex2_ASYNC [Queue] inactive for 120 seconds
+|#]
+
+
+[#|2023-10-19T12:12:15.936+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=15;_ThreadName=MQTimer-Thread;|[B1517]: Destroying destination Ex2_ASYNC [Queue] 
+|#]
+
+
+[#|2023-10-19T12:12:15.937+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=15;_ThreadName=MQTimer-Thread;|[B1387]: Purged 0 messages from destination Ex2_ASYNC [Queue]
+|#]
+
+
+[#|2023-10-19T12:12:15.943+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=15;_ThreadName=MQTimer-Thread;|[B1159]: Destination Ex2_ASYNC [Queue] has been destroyed
+|#]
+
+
+[#|2023-10-19T12:12:39.055+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=15;_ThreadName=MQTimer-Thread;|[B1130]: Destroying auto-created destination Ex2_SYNC [Queue] inactive for 120 seconds
+|#]
+
+
+[#|2023-10-19T12:12:39.055+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=15;_ThreadName=MQTimer-Thread;|[B1517]: Destroying destination Ex2_SYNC [Queue] 
+|#]
+
+
+[#|2023-10-19T12:12:39.056+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=15;_ThreadName=MQTimer-Thread;|[B1387]: Purged 0 messages from destination Ex2_SYNC [Queue]
+|#]
+
+
+[#|2023-10-19T12:12:39.061+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=15;_ThreadName=MQTimer-Thread;|[B1159]: Destination Ex2_SYNC [Queue] has been destroyed
+|#]
+
+
+[#|2023-10-19T12:12:54.079+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=27;_ThreadName=Thread-jms[0];|[B1065]: Accepting: admin@127.0.0.1:54936->jms:54832. Count: service=1 broker=1
+|#]
+
+
+[#|2023-10-19T12:12:54.127+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=27;_ThreadName=Thread-jms[0];|[B1132]: Auto-creating destination Servlet [Queue] 
+|#]
+
+
+[#|2023-10-19T12:13:02.035+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=30;_ThreadName=Thread-jms[2];|[B1065]: Accepting: admin@127.0.0.1:54947->jms:54832. Count: service=2 broker=2
+|#]
+
+
+[#|2023-10-19T12:13:32.791+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=37;_ThreadName=Thread-admin[0];|[B1065]: Accepting: admin@127.0.0.1:54954->admin:54833. Count: service=1 broker=3
+|#]
+
+
+[#|2023-10-19T12:15:39.342+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=37;_ThreadName=Thread-admin[0];|[B1159]: Destination temporary_destination://queue/192.168.43.148/54954/1 [Queue] has been destroyed
+|#]
+
+
+[#|2023-10-19T12:15:39.345+0300|INFO|5.1.2|imq.log.Logger|_ThreadID=37;_ThreadName=Thread-admin[0];|[B1066]:   Closing: admin@127.0.0.1:54954->admin:54833 because "java.net.SocketException: Connection reset". Count: service=0 broker=2
+|#]
+
+
